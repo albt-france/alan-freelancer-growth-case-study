@@ -1,0 +1,21 @@
+test,passed,detail
+"K01 acq_weekly key (week, region, sub-segment, channel) unique",true,40560 rows
+K02 acq_weekly is complete: 104 weeks x 13 regions x 5 sub-segments x 6 channels,true,40560 rows
+K03 organic key unique,true,6760 rows
+K04 creative ids and referrer codes unique,true,"120 creatives, 3973 referrers"
+Q01 real sign-ups <= reported on every row,true,0 rows break it
+Q02 funnel order: impressions >= clicks >= quotes >= real >= active,true,0 rows break it
+Q03 referral totals match between acq_weekly and referrals,true,9298 vs 9298
+"Q04 URSSAF Q4 2025 totals as published (1,660,015 economically active)",true,1660015.0 / 3031447.0 / 197092.0
+Q05 weekly totals equal the sum of channel and organic rows,true,ok
+"P01 no column outside the aggregated whitelist (no person, no health data)",true,12 columns
+E1 attribution double counting flagged (platform sum / deduplicated in 1.35-1.45),true,1.404x
+E2 brand search mostly not incremental (X4: incremental share < 25%),true,1.3% incremental
+"E3 X1 sample-ratio mismatch detected (chi2 > 10.83, test declared invalid)",true,"share test 51.7%, chi2 120.0"
+"E4 Simpson: LinkedIn Ads best conversion in total, worst in every sub-segment",true,5 of 5 sub-segments
+"E5 X2 novelty: lift weeks 1-3 > 25%, weeks 4+ < 10%, drops below 10% in week 4",true,40.0% then -1.0%
+E6 creative fatigue: CTR at frequency 5-6 about half of 1-4; winning angle differs by sub-segment,true,"0.52 ratio, 5 different winners"
+E7 self-referral: flagged codes are above the 99th percentile and never active,true,"12 codes, 361 referees"
+E8 August 2026 drop flagged by the naive rule (about -22%),true,-21.2%
+F1 August 2026 NOT escalated once deseasonalised (no deseasonalised alert at all),true,3.6% deseasonalised
+X3 LinkedIn geo test: incremental sign-ups well below what the platform reports,true,243.0 incremental vs 1268.0 reported

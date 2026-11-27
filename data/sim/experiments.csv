@@ -1,0 +1,5 @@
+experiment,name,hypothesis,metric,unit,start_week,end_week,planned_share_test
+X1,Landing page by sub-segment,A page written for each sub-segment lifts quote requests,quote-request rate per visitor,visitor,2026-09-07,2026-10-04,0.5
+X2,Referral reward EUR 100 vs EUR 50,A larger reward makes more members invite a freelancer,share of members shown the offer who send an invitation,member-week,2026-06-15,2026-08-09,0.5
+X3,LinkedIn Ads geo test (spend x3),Extra LinkedIn spend brings incremental sign-ups,total sign-ups per departement-week,departement,2026-03-02,2026-04-26,0.5
+X4,Brand search holdout,Brand search sign-ups would mostly arrive anyway,total sign-ups per region-week,region,2026-05-04,2026-06-28,0.36

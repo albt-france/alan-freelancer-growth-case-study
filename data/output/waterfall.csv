@@ -1,0 +1,4 @@
+step,label,signups
+1,Reported by platforms,173933.0
+2,Deduplicated,123855.0
+3,Incremental,48261.96708711105

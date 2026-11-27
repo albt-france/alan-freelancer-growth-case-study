@@ -1,0 +1,2 @@
+h_pre,h_post,c_pre,c_post,b_h_pre,b_c_pre,b_c_post,b_h_post,o_h_pre,o_h_post,o_c_pre,o_c_post,expected_total,lost_total,expected_brand,brand_incremental_share,organic_gain,total_lift
+5520,4492,8933,7295,1476,2323,1929,0,1424,2264,2385,1872,4507.824918840255,15.824918840255123,1225.658200602669,0.01291136373295087,1146.2943396226415,-0.003510544248095271

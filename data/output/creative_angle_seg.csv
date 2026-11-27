@@ -1,0 +1,26 @@
+subsegment,angle,ctr,n_creatives,ctr_index,winner
+Commerce & services,App experience,0.005367699966145717,5,0.865574998771124,false
+Commerce & services,Fast reimbursement,0.005753814891282847,7,0.9278384315186635,false
+Commerce & services,Made for freelancers,0.005481523999689879,4,0.8839298319988569,false
+Commerce & services,Prevention,0.005381370324353688,5,0.8677794290417603,false
+Commerce & services,Price,0.009022147002373054,6,1.454877308669595,true
+Construction & crafts,App experience,0.00524556170616793,5,0.8716619851091367,false
+Construction & crafts,Fast reimbursement,0.008129921508563022,4,1.350959900558006,true
+Construction & crafts,Made for freelancers,0.005596727131307996,5,0.9300156121800685,false
+Construction & crafts,Prevention,0.00566889143387715,4,0.9420072505888745,false
+Construction & crafts,Price,0.005448323913640784,6,0.9053552515639153,false
+Consulting & IT,App experience,0.008435263389979988,4,1.3957303880101215,true
+Consulting & IT,Fast reimbursement,0.005746642452291334,6,0.9508610613415651,false
+Consulting & IT,Made for freelancers,0.005398597363398287,4,0.8932722126586952,false
+Consulting & IT,Prevention,0.005472841758371094,4,0.9055569693298463,false
+Consulting & IT,Price,0.005164752536888741,5,0.8545793686597715,false
+Health & wellbeing,App experience,0.005499588815789474,5,0.9028439961510775,false
+Health & wellbeing,Fast reimbursement,0.005298068379675284,4,0.869761247250817,false
+Health & wellbeing,Made for freelancers,0.005938676755042179,5,0.9749271869159031,false
+Health & wellbeing,Prevention,0.008356515587879714,4,1.371853456680115,true
+Health & wellbeing,Price,0.005364177584985835,6,0.8806141130020873,false
+New founders (<6 months),App experience,0.005464076895760093,4,0.9007782970389584,false
+New founders (<6 months),Fast reimbursement,0.005418281777752885,6,0.8932287604569897,false
+New founders (<6 months),Made for freelancers,0.00839125972327938,4,1.3833378972782076,true
+New founders (<6 months),Prevention,0.0055885992021438916,4,0.9213063740092512,false
+New founders (<6 months),Price,0.005467536757499873,4,0.9013486712165927,false

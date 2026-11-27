@@ -1,0 +1,2 @@
+n_t,n_c,x_t,x_c,share_test,rate_t,rate_c,lift,srm_chi2,srm_flag,decision
+53513,49987,2266,1980,0.5170338164251208,0.04234485078392167,0.03961029867765619,0.06903639198782452,120.1224734299517,true,"invalid: sample-ratio mismatch, fix the bot filter and rerun"

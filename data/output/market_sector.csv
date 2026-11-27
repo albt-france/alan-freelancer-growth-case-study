@@ -1,0 +1,36 @@
+sector,sector_code,subsegment,eco_active,share
+S3 - Autres services personnels,S3,Commerce & services,113136.0,0.06821149808935938
+CZ1 - Industrie,CZ1,Construction & crafts,109352.0,0.06593006416231462
+PZ - Enseignement,PZ,Commerce & services,103047.0,0.06212867914381113
+S2 - Coiffure et soins du corps,S2,Health & wellbeing,98817.0,0.05957834470633773
+QZ - Santé,QZ,Health & wellbeing,92573.0,0.055813737560336814
+N1 - Activités de nettoyage,N1,Commerce & services,91785.0,0.05533863979751671
+"R1 - Arts, spectacles et autres activités récréatives",R1,Commerce & services,83684.0,0.05045441774598669
+F3 - BTP travaux de finition,F3,Construction & crafts,75528.0,0.04553703531761009
+M3 - Conseil pour les affaires et autres conseils de gestion,M3,Consulting & IT,71932.0,0.04336894958778637
+N2 - Autres activités de service administratif et de soutien,N2,Commerce & services,70844.0,0.042712977042166735
+"JZ - Informatique, information et communication",JZ,Consulting & IT,70138.0,0.04228731838664517
+M5 - Autres activités scientifiques et techniques,M5,Consulting & IT,66551.0,0.040124658900305435
+G6 - Commerce de détail non spécialisé,G6,Commerce & services,54264.0,0.032716630712779284
+"M2 - Activités comptables, de conseil et d'ingénierie",M2,Consulting & IT,52682.0,0.03176281769148309
+R2 - Activités sportives,R2,Health & wellbeing,52589.0,0.031706746508815234
+F1 - BTP gros-oeuvre,F1,Construction & crafts,47754.0,0.028791647926029448
+F2 - BTP travaux d'installation,F2,Construction & crafts,45820.0,0.027625608492915135
+"M4 - Activités spécialisées de design, graphisme et d'infographie",M4,Consulting & IT,45062.0,0.027168598208374986
+HZ3 - Activités de poste et de courrier,HZ3,Commerce & services,34154.0,0.020591991105784014
+G5 - Commerce de détail sur marchés non classé ailleurs,G5,Commerce & services,33016.0,0.019905872763031122
+IZ2 - Restauration et débits de boissons,IZ2,Commerce & services,32475.0,0.0195796952380493
+LZ - Activités immobilières,LZ,Consulting & IT,32316.0,0.01948383160316555
+G4 - Commerce de détail non alimentaire (hors pharmacie),G4,Commerce & services,31413.0,0.01893939850693896
+G1 - Commerce-réparation d'automobiles,G1,Construction & crafts,30204.0,0.018210473132256846
+"G2 - Commerce de gros, intermédiaires du commerce",G2,Commerce & services,28353.0,0.017094475722383737
+S1 - Réparations hors automobile,S1,Construction & crafts,23294.0,0.014044323968440967
+CZ2 - Métiers de bouche,CZ2,Construction & crafts,21112.0,0.012728761381545708
+HZ1 - Taxis - VTC,HZ1,Commerce & services,16369.0,0.009869131065485112
+IZ1 - Hébergement,IZ1,Commerce & services,8957.0,0.00540031809845135
+KZ - Activités financières et d'assurance,KZ,Consulting & IT,7959.0,0.004798607987671575
+HZ2 - Transports routier de fret et déménagement,HZ2,Commerce & services,4626.0,0.002789089150768778
+HZ4 - Autres activités de transports et entreposage,HZ4,Commerce & services,3014.0,0.001817188651192628
+G3 - Commerce de détail alimentaire hors métiers de bouche,G3,Commerce & services,2539.0,0.0015308035784267029
+"AZ - Agriculture, sylviculture et pêche",AZ,Commerce & services,2040.0,0.0012299485230368153
+M1 - Activités juridiques,M1,Consulting & IT,1207.0,0.0007277195427967824
